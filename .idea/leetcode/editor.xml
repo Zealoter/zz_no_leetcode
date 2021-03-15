@@ -3,11 +3,35 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/[11]盛最多水的容器.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[11]盛最多水的容器.py" />
+              <option name="questionId" value="11" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[198]打家劫舍.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[198]打家劫舍.py" />
+              <option name="questionId" value="198" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[1]两数之和.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[1]两数之和.py" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[283]移动零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[283]移动零.py" />
+              <option name="questionId" value="283" />
             </LeetcodeEditor>
           </value>
         </entry>
