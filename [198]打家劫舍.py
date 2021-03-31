@@ -35,4 +35,22 @@
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def rob(self, nums: List[int]) -> int:
+        len_nums = len(nums)
+        dp1 = [0] * len_nums
+        dp2 = [0] * len_nums
+        dp2[0] = nums[0]
+        for i in range(1, len_nums):
+            dp1[i] = max(dp1[i - 1], dp2[i - 1])
+            dp2[i] = dp1[i - 1] + nums[i]
+        return max(dp1[-1],dp2[-1])
+
 # leetcode submit region end(Prohibit modification and deletion)
+# nums = [2, 7, 9, 3, 1]
+# len_nums = len(nums)
+# dp1 = [0] * len_nums
+# dp2 = [0] * len_nums
+# dp2[0] = nums[0]
+# for i in range(1, len_nums):
+#     dp1[i] = max(dp1[i - 1], dp2[i - 1])
+#     dp2[i] = dp1[i - 1] + nums[i]
+# print(max(dp1[-1], dp2[-1]))

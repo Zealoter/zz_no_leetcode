@@ -11,6 +11,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1411]给 N x 3 网格图涂色的方案数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[1411]给 N x 3 网格图涂色的方案数.py" />
+              <option name="questionId" value="1527" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[15]三数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[15]三数之和.py" />
+              <option name="questionId" value="15" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[198]打家劫舍.py">
           <value>
             <LeetcodeEditor>
@@ -27,6 +43,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[20]有效的括号.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[20]有效的括号.py" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[283]移动零.py">
           <value>
             <LeetcodeEditor>
@@ -35,11 +59,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[474]一和零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[474]一和零.py" />
+              <option name="questionId" value="474" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[4]寻找两个正序数组的中位数.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[4]寻找两个正序数组的中位数.py" />
               <option name="questionId" value="4" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[5]最长回文子串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[5]最长回文子串.py" />
+              <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[688]“马”在棋盘上的概率.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[688]“马”在棋盘上的概率.py" />
+              <option name="questionId" value="688" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[70]爬楼梯.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[70]爬楼梯.py" />
+              <option name="questionId" value="70" />
             </LeetcodeEditor>
           </value>
         </entry>
