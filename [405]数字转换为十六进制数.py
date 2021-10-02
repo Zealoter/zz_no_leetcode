@@ -34,5 +34,12 @@
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def toHex(self, num: int) -> str:
-        return 1
+        if num == 0:
+            return '0'
+        Hex = '0123456789abcdef'
+        res = ''
+        while len(res) < 8 and num:
+            res += Hex[0b1111 & num]
+            num >>= 4
+        return res[::-1]
 # leetcode submit region end(Prohibit modification and deletion)
